@@ -1,0 +1,15 @@
+{
+  "name": "UCAlytics",
+  "version": "1.0.0",
+  "description": "TP fina mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
